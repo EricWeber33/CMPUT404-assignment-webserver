@@ -4,7 +4,7 @@ import socketserver
 from os.path import exists, isdir
 
 
-# Copyright 2013 Abram Hindle, Eddie Antonio Santos
+# Copyright 2022 Abram Hindle, Eddie Antonio Santos, Eric Weber
 # 
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
